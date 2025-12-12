@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 import React from "react";
 import { Link } from "react-router-dom";
 import "./Nav.css"; // optional if you want to style it
@@ -30,3 +31,12 @@ const Nav = () => {
 };
 
 export default Nav;
+=======
+        <nav>
+          <ul>
+            <li><HashLink to = "/">Home</HashLink></li>
+            <li><HashLink to = "/about">About Organization</HashLink></li>
+            <li><HashLink to = "/contact">Contact Us</HashLink></li>
+          </ul>
+        </nav>
+>>>>>>> Stashed changes
