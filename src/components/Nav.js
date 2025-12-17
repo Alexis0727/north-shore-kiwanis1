@@ -26,6 +26,6 @@ const Nav = () => {
           <Link to="/donate">Donate</Link>
         </li>
       </ul>
-    </nav>
+    </Nav>
   );
 };
