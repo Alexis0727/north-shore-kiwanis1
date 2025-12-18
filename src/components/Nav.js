@@ -1,6 +1,3 @@
-import React from "react";
-import { Link } from "react-router-dom";
-import "./nav.css"; // optional if you want to style it
 
 const Nav = () => {
   return (
