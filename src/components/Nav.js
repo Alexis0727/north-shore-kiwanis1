@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-import React from "react";
-import { Link } from "react-router-dom";
-import "./Nav.css"; // optional if you want to style it
 
 const Nav = () => {
   return (
@@ -26,6 +22,8 @@ const Nav = () => {
           <Link to="/donate">Donate</Link>
         </li>
       </ul>
-    </Nav>
+    </nav>
   );
 };
+
+export default Nav;
